@@ -1,0 +1,28 @@
+name: Grace Family Fellowship
+favicon: null
+layout_spectrum: 0.48867027438245714
+typography_spectrum: 0.5701248366385698
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.8318544791545719
+  lightness: 0.5201099154073745
+  saturation: 0.9429474696516991
+  rhythmicContrast: 0.62262092391029
+purpose: []
